@@ -10,14 +10,14 @@ A clean, recruiter-ready **ticketing-style web app** to log and track IT support
 - JWT auth (secure cookie session) + bcrypt password hashing
 
 ## Features
-✅ Create and track tickets with structured fields (status, priority, category, timestamps)  
-✅ Filters + search (status/priority/category + keyword search)  
-✅ Reporting dashboard with charts (Chart.js)  
-✅ **SLA tracking** (auto-due times based on priority; breach indicator)  
-✅ **Admin vs User authentication**  
+- Create and track tickets with structured fields (status, priority, category, timestamps)  
+- Filters + search (status/priority/category + keyword search)  
+- Reporting dashboard with charts (Chart.js)  
+- **SLA tracking** (auto-due times based on priority; breach indicator)  
+- **Admin vs User authentication**  
 - User: create/view tickets  
 - Admin: status updates + CSV export  
-✅ Export all tickets to CSV (admin only)
+- Export all tickets to CSV (admin only)
 
 ---
 
