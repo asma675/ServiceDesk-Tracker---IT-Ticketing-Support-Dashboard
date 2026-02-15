@@ -1,4 +1,4 @@
-# ServiceDesk Tracker — IT Ticketing & Support Dashboard
+# ServiceDesk Tracker - IT Ticketing & Support Dashboard
 
 A clean, recruiter-ready **ticketing-style web app** to log and track IT support requests using structured records (**status, priority, category, timestamps**) with **filters, reporting charts, SLA tracking, role-based access (admin vs user), and CSV export**.
 
